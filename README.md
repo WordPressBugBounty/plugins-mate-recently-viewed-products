@@ -1,0 +1,1 @@
+# plugins-mate-recently-viewed-products
